@@ -1,0 +1,582 @@
+[
+  {
+    "iso": 305,
+    "name": "Amstetten",
+    "constructionLandPrice": 61.43
+  },
+  {
+    "iso": 306,
+    "name": "Baden",
+    "constructionLandPrice": 192.59
+  },
+  {
+    "iso": 801,
+    "name": "Bludenz",
+    "constructionLandPrice": 284.36
+  },
+  {
+    "iso": 404,
+    "name": "Braunau am Inn",
+    "constructionLandPrice": 68.52
+  },
+  {
+    "iso": 802,
+    "name": "Bregenz",
+    "constructionLandPrice": 289.11
+  },
+  {
+    "iso": 307,
+    "name": "Bruck an der Leitha",
+    "constructionLandPrice": 164.59
+  },
+  {
+    "iso": 621,
+    "name": "Bruck-Mürzzuschlag",
+    "constructionLandPrice": 54.35
+  },
+  {
+    "iso": 603,
+    "name": "Deutschlandsberg",
+    "constructionLandPrice": 41.87
+  },
+  {
+    "iso": 803,
+    "name": "Dornbirn",
+    "constructionLandPrice": 523.73
+  },
+  {
+    "iso": 405,
+    "name": "Eferding",
+    "constructionLandPrice": 92.83
+  },
+  {
+    "iso": 101,
+    "name": "Eisenstadt (Stadt)",
+    "constructionLandPrice": 216.4
+  },
+  {
+    "iso": 103,
+    "name": "Eisenstadt-Umgebung",
+    "constructionLandPrice": 114.52
+  },
+  {
+    "iso": 804,
+    "name": "Feldkirch",
+    "constructionLandPrice": 379.41
+  },
+  {
+    "iso": 210,
+    "name": "Feldkirchen",
+    "constructionLandPrice": 56.05
+  },
+  {
+    "iso": 406,
+    "name": "Freistadt",
+    "constructionLandPrice": 56.32
+  },
+  {
+    "iso": 308,
+    "name": "Gänserndorf",
+    "constructionLandPrice": 93.49
+  },
+  {
+    "iso": 309,
+    "name": "Gmünd",
+    "constructionLandPrice": 20.44
+  },
+  {
+    "iso": 407,
+    "name": "Gmunden",
+    "constructionLandPrice": 122.49
+  },
+  {
+    "iso": 601,
+    "name": "Graz (Stadt)",
+    "constructionLandPrice": 246.3
+  },
+  {
+    "iso": 606,
+    "name": "Graz-Umgebung",
+    "constructionLandPrice": 94.91
+  },
+  {
+    "iso": 408,
+    "name": "Grieskirchen",
+    "constructionLandPrice": 54.99
+  },
+  {
+    "iso": 104,
+    "name": "Güssing",
+    "constructionLandPrice": 13.36
+  },
+  {
+    "iso": 502,
+    "name": "Hallein",
+    "constructionLandPrice": 307.58
+  },
+  {
+    "iso": 622,
+    "name": "Hartberg-Fürstenfeld",
+    "constructionLandPrice": 24.49
+  },
+  {
+    "iso": 203,
+    "name": "Hermagor",
+    "constructionLandPrice": 43.93
+  },
+  {
+    "iso": 310,
+    "name": "Hollabrunn",
+    "constructionLandPrice": 24.06
+  },
+  {
+    "iso": 311,
+    "name": "Horn",
+    "constructionLandPrice": 26.41
+  },
+  {
+    "iso": 702,
+    "name": "Imst",
+    "constructionLandPrice": 160.62
+  },
+  {
+    "iso": 701,
+    "name": "Innsbruck-Land",
+    "constructionLandPrice": 348.5
+  },
+  {
+    "iso": 703,
+    "name": "Innsbruck-Stadt",
+    "constructionLandPrice": 1066.2
+  },
+  {
+    "iso": 105,
+    "name": "Jennersdorf",
+    "constructionLandPrice": 13.44
+  },
+  {
+    "iso": 409,
+    "name": "Kirchdorf an der Krems",
+    "constructionLandPrice": 80.91
+  },
+  {
+    "iso": 704,
+    "name": "Kitzbühel",
+    "constructionLandPrice": 561.81
+  },
+  {
+    "iso": 201,
+    "name": "Klagenfurt Land",
+    "constructionLandPrice": 80.92
+  },
+  {
+    "iso": 204,
+    "name": "Klagenfurt Stadt",
+    "constructionLandPrice": 129.9
+  },
+  {
+    "iso": 312,
+    "name": "Korneuburg",
+    "constructionLandPrice": 200.59
+  },
+  {
+    "iso": 301,
+    "name": "Krems (Land)",
+    "constructionLandPrice": 58.74
+  },
+  {
+    "iso": 313,
+    "name": "Krems an der Donau (Stadt)",
+    "constructionLandPrice": 117.6
+  },
+  {
+    "iso": 705,
+    "name": "Kufstein",
+    "constructionLandPrice": 305.33
+  },
+  {
+    "iso": 706,
+    "name": "Landeck",
+    "constructionLandPrice": 270.53
+  },
+  {
+    "iso": 610,
+    "name": "Leibnitz",
+    "constructionLandPrice": 47.96
+  },
+  {
+    "iso": 611,
+    "name": "Leoben",
+    "constructionLandPrice": 48.32
+  },
+  {
+    "iso": 707,
+    "name": "Lienz",
+    "constructionLandPrice": 95.99
+  },
+  {
+    "iso": 612,
+    "name": "Liezen",
+    "constructionLandPrice": 84.36
+  },
+  {
+    "iso": 314,
+    "name": "Lilienfeld",
+    "constructionLandPrice": 59.34
+  },
+  {
+    "iso": 401,
+    "name": "Linz (Stadt)",
+    "constructionLandPrice": 354.7
+  },
+  {
+    "iso": 410,
+    "name": "Linz-Land",
+    "constructionLandPrice": 198.3
+  },
+  {
+    "iso": 106,
+    "name": "Mattersburg",
+    "constructionLandPrice": 67.7
+  },
+  {
+    "iso": 315,
+    "name": "Melk",
+    "constructionLandPrice": 44.14
+  },
+  {
+    "iso": 316,
+    "name": "Mistelbach",
+    "constructionLandPrice": 56.09
+  },
+  {
+    "iso": 317,
+    "name": "Mödling",
+    "constructionLandPrice": 409.78
+  },
+  {
+    "iso": 614,
+    "name": "Murau",
+    "constructionLandPrice": 51.31
+  },
+  {
+    "iso": 620,
+    "name": "Murtal",
+    "constructionLandPrice": 50.87
+  },
+  {
+    "iso": 318,
+    "name": "Neunkirchen",
+    "constructionLandPrice": 59.93
+  },
+  {
+    "iso": 107,
+    "name": "Neusiedl am See",
+    "constructionLandPrice": 92.56
+  },
+  {
+    "iso": 108,
+    "name": "Oberpullendorf",
+    "constructionLandPrice": 22.38
+  },
+  {
+    "iso": 109,
+    "name": "Oberwart",
+    "constructionLandPrice": 19.9
+  },
+  {
+    "iso": 411,
+    "name": "Perg",
+    "constructionLandPrice": 69.62
+  },
+  {
+    "iso": 708,
+    "name": "Reutte",
+    "constructionLandPrice": 115.76
+  },
+  {
+    "iso": 412,
+    "name": "Ried im Innkreis",
+    "constructionLandPrice": 44.59
+  },
+  {
+    "iso": 413,
+    "name": "Rohrbach",
+    "constructionLandPrice": 30.04
+  },
+  {
+    "iso": 102,
+    "name": "Rust (Stadt)",
+    "constructionLandPrice": 136.5
+  },
+  {
+    "iso": 501,
+    "name": "Salzburg (Stadt)",
+    "constructionLandPrice": 1043
+  },
+  {
+    "iso": 503,
+    "name": "Salzburg-Umgebung",
+    "constructionLandPrice": 315.98
+  },
+  {
+    "iso": 504,
+    "name": "Sankt Johann im Pongau",
+    "constructionLandPrice": 236.96
+  },
+  {
+    "iso": 302,
+    "name": "Sankt Pölten (Land)",
+    "constructionLandPrice": 89.37
+  },
+  {
+    "iso": 319,
+    "name": "Sankt Pölten (Stadt)",
+    "constructionLandPrice": 124.6
+  },
+  {
+    "iso": 205,
+    "name": "Sankt Veit an der Glan",
+    "constructionLandPrice": 43.27
+  },
+  {
+    "iso": 414,
+    "name": "Schärding",
+    "constructionLandPrice": 32.75
+  },
+  {
+    "iso": 320,
+    "name": "Scheibbs",
+    "constructionLandPrice": 49.6
+  },
+  {
+    "iso": 709,
+    "name": "Schwaz",
+    "constructionLandPrice": 280.6
+  },
+  {
+    "iso": 206,
+    "name": "Spittal an der Drau",
+    "constructionLandPrice": 62.84
+  },
+  {
+    "iso": 402,
+    "name": "Steyr (Stadt)",
+    "constructionLandPrice": 136.9
+  },
+  {
+    "iso": 415,
+    "name": "Steyr-Land",
+    "constructionLandPrice": 92.58
+  },
+  {
+    "iso": 623,
+    "name": "Südoststeiermark",
+    "constructionLandPrice": 23.91
+  },
+  {
+    "iso": 505,
+    "name": "Tamsweg",
+    "constructionLandPrice": 81.85
+  },
+  {
+    "iso": 321,
+    "name": "Tulln",
+    "constructionLandPrice": 129.56
+  },
+  {
+    "iso": 416,
+    "name": "Urfahr-Umgebung",
+    "constructionLandPrice": 112.88
+  },
+  {
+    "iso": 202,
+    "name": "Villach Land",
+    "constructionLandPrice": 50.56
+  },
+  {
+    "iso": 207,
+    "name": "Villach Stadt",
+    "constructionLandPrice": 147
+  },
+  {
+    "iso": 616,
+    "name": "Vöcklabruck",
+    "constructionLandPrice": 123.88
+  },
+  {
+    "iso": 417,
+    "name": "Voitsberg",
+    "constructionLandPrice": 49.35
+  },
+  {
+    "iso": 208,
+    "name": "Völkermarkt",
+    "constructionLandPrice": 32.22
+  },
+  {
+    "iso": 322,
+    "name": "Waidhofen an der Thaya",
+    "constructionLandPrice": 15.2
+  },
+  {
+    "iso": 303,
+    "name": "Waidhofen an der Ybbs (Stadt)",
+    "constructionLandPrice": 116.3
+  },
+  {
+    "iso": 617,
+    "name": "Weiz",
+    "constructionLandPrice": 39.94
+  },
+  {
+    "iso": 403,
+    "name": "Wels (Stadt)",
+    "constructionLandPrice": 217.1
+  },
+  {
+    "iso": 418,
+    "name": "Wels-Land",
+    "constructionLandPrice": 117.78
+  },
+  {
+    "iso": 901,
+    "name": "Wien 01. Innere Stadt",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 902,
+    "name": "Wien 02. Leopoldstadt",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 903,
+    "name": "Wien 03. Landstraße",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 904,
+    "name": "Wien 04. Wieden",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 905,
+    "name": "Wien 05. Margareten",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 906,
+    "name": "Wien 06. Mariahilf",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 907,
+    "name": "Wien 07. Neubau",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 908,
+    "name": "Wien 08. Josefstadt",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 909,
+    "name": "Wien 09. Alsergrund",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 910,
+    "name": "Wien 10. Favoriten",
+    "constructionLandPrice": 707.1
+  },
+  {
+    "iso": 911,
+    "name": "Wien 11. Simmering",
+    "constructionLandPrice": 613.8
+  },
+  {
+    "iso": 912,
+    "name": "Wien 12. Meidling",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 913,
+    "name": "Wien 13. Hietzing",
+    "constructionLandPrice": 1006.3
+  },
+  {
+    "iso": 914,
+    "name": "Wien 14. Penzing",
+    "constructionLandPrice": 757.5
+  },
+  {
+    "iso": 915,
+    "name": "Wien 15. Rudolfsheim-Fünfhaus",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 916,
+    "name": "Wien 16. Ottakring",
+    "constructionLandPrice": 738.5
+  },
+  {
+    "iso": 917,
+    "name": "Wien 17. Hernals",
+    "constructionLandPrice": 1102.8
+  },
+  {
+    "iso": 918,
+    "name": "Wien 18. Währing",
+    "constructionLandPrice": 1186.4
+  },
+  {
+    "iso": 919,
+    "name": "Wien 19. Döbling",
+    "constructionLandPrice": 1560.0
+  },
+  {
+    "iso": 920,
+    "name": "Wien 20. Brigittenau",
+    "constructionLandPrice": null
+  },
+  {
+    "iso": 921,
+    "name": "Wien 21. Floridsdorf",
+    "constructionLandPrice": 705.7
+  },
+  {
+    "iso": 922,
+    "name": "Wien 22. Donaustadt",
+    "constructionLandPrice": 759
+  },
+  {
+    "iso": 923,
+    "name": "Wien 23. Liesing",
+    "constructionLandPrice": 700.6
+  },
+  {
+    "iso": 304,
+    "name": "Wiener Neustadt (Land)",
+    "constructionLandPrice": 82.58
+  },
+  {
+    "iso": 323,
+    "name": "Wiener Neustadt (Stadt)",
+    "constructionLandPrice": 227.7
+  },
+  {
+    "iso": 209,
+    "name": "Wolfsberg",
+    "constructionLandPrice": 40.23
+  },
+  {
+    "iso": 506,
+    "name": "Zell am See",
+    "constructionLandPrice": 238.85
+  },
+  {
+    "iso": 325,
+    "name": "Zwettl",
+    "constructionLandPrice": 16.59
+  }
+]

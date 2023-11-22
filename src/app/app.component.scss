@@ -1,0 +1,25 @@
+.application-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+
+  h1 {
+    font-family: Arial, serif;
+    color: #036248;
+    font-size: 21pt;
+    margin-bottom: 20px;
+  }
+
+  h2 {
+    font-family: Arial, serif;
+    color: #076b33;
+    font-size: 18pt;
+  }
+
+  .mapbox-wrapper {
+    height: 75%;
+    width: 75%;
+    text-align: center;
+  }
+}

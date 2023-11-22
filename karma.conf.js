@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/angular-mapbox'),
+      dir: require('path').join(__dirname, './coverage/austria-real-estate-map'),
       subdir: '.',
       reporters: [
         { type: 'html' },
