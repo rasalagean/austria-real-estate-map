@@ -1,4 +1,4 @@
-# AngularMapbox
+# AustriaRealEstateMap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
@@ -27,7 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-District GeoJson data from: https://github.com/ginseng666/GeoJSON-TopoJSON-Austria/blob/master/2021/simplified-95/bezirke_95_geo.json
-Details on choropleth map design: https://handsondataviz.org/design-choropleth.html
-Mapbox documentation: https://docs.mapbox.com/
-Price data from: https://www.finanz.at/immobilien/immobilienpreise/
+District GeoJson data from: https://github.com/ginseng666/GeoJSON-TopoJSON-Austria/blob/master/2021/simplified-95/bezirke_95_geo.json \
+Details on choropleth map design: https://handsondataviz.org/design-choropleth.html \
+Mapbox documentation: https://docs.mapbox.com/ \
+Price data from: https://www.finanz.at/immobilien/immobilienpreise/ \
