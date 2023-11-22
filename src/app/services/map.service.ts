@@ -117,7 +117,7 @@ export class MapService {
 
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML(selectedDistrict.name + ": " + selectedDistrict.constructionLandPrice + " €/m²" ?? 'No data')
+            .setHTML(selectedDistrict?.constructionLandPrice ? (selectedDistrict.name + ": " + selectedDistrict.constructionLandPrice + " €/m²") : 'No data')
             .addTo(this.map);
       }
     });
